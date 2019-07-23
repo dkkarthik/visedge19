@@ -1,10 +1,10 @@
 full_title: First ACM/IEEE Workshop on Vision at the Edge
 short_title: VisEdge 2019
 email: kdantu@buffalo.edu
-description: # this means to ignore newlines until "baseurl:"
-This workshop hopes to highlight the adaptation of computer
-vision algorithms and novel computer vision applications
-for edge-assisted mobile devices.
+description: > # this means to ignore newlines until "baseurl:"
+  This workshop hopes to highlight the adaptation of computer
+  vision algorithms and novel computer vision applications
+  for edge-assisted mobile devices.
 location: Washington D.C. 2019
 date: November 9, 2019
 logo_path: ./assets/images/visedge2019.jpg
