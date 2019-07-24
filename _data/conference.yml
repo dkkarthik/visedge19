@@ -21,12 +21,12 @@ slideshow:
     photographer_name:
     photographer_link: https://www.stayarlington.com/things-to-do/annual-events/arlington-county-fair/
   - id: 2
-    image_path: ./assets/images/slideshow/image2.jpeg
+    image_path: ./assets/images/slideshow/image2.jpg
     description: Smithsonian Air and Space Museum
     photographer_name:
     photographer_link: https://www.si.edu/museums
   - id: 3
-    image_path: ./assets/images/slideshow/image3.jpeg
+    image_path: ./assets/images/slideshow/image3.jpg
     description: Smithsonian American History Museum
     photographer_name:
     photographer_link: https://www.si.edu/museums
