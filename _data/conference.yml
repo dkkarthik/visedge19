@@ -35,7 +35,7 @@ slideshow:
     description: Georgetown
     photographer_name:
     photographer_link: https://washington.org/visit-dc/things-see-do-georgetown-washington-dc
-  - id: 3
+  - id: 5
     image_path: ./assets/images/slideshow/image5.jpg
     description: Washington Harbor
     photographer_name:
