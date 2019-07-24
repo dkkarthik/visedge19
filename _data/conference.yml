@@ -21,15 +21,25 @@ slideshow:
     photographer_name:
     photographer_link: https://www.stayarlington.com/things-to-do/annual-events/arlington-county-fair/
   - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
-    description: Smithsonian Museums - I
+    image_path: ./assets/images/slideshow/image2.jpeg
+    description: Smithsonian Air and Space Museum
     photographer_name:
     photographer_link: https://www.si.edu/museums
   - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-    description: Smithsonian Museums - II
+    image_path: ./assets/images/slideshow/image3.jpeg
+    description: Smithsonian American History Museum
     photographer_name:
     photographer_link: https://www.si.edu/museums
+  - id: 4
+    image_path: ./assets/images/slideshow/image4.jpg
+    description: Georgetown
+    photographer_name:
+    photographer_link: https://washington.org/visit-dc/things-see-do-georgetown-washington-dc
+  - id: 3
+    image_path: ./assets/images/slideshow/image5.jpg
+    description: Washington Harbor
+    photographer_name:
+    photographer_link: https://washington.org/visit-dc/things-see-do-georgetown-washington-dc
 navbar:
   - id: 0
     label: Home
