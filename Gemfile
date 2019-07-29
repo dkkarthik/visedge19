@@ -22,4 +22,4 @@ gem "jekyll", "3.4.2"
 
 gem 'tzinfo-data'
 gem 'tzinfo'
-
+gem 'jekyll-theme-minimal'

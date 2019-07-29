@@ -86,6 +86,7 @@ deadlines:
 news:
   - date: 2019-07-23
     text: Website online
+exclude: [vendor]
 #sponsors:
 #  - name: ACM
 #    logo_path: ./assets/images/sponsors/acm-logo.png
