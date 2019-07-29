@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This workshop hopes to highlight the adaptation of computer
   vision algorithms and novel computer vision applications
   for edge-assisted mobile devices.
-location: Washington D.C. 2019
+location: Washington D.C.
 date: November 9, 2019
 logo_path: ./assets/images/visedge2019.jpg
 slideshow:
