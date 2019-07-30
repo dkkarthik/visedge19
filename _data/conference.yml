@@ -99,13 +99,13 @@ exclude:
 #social_media:
 #  facebook_link: https://www.facebook.com/hotwebseries/#
 #  twitter_link:
-# program_chair:
-#   - name: Qun Li
-#     org: College of William and Mary (USA)
-#     homepage: http://www.cs.wm.edu/~liqun
-#   - name: Songqing Chen
-#     org: George Mason University (USA)
-#     homepage: http://www.cs.gmu.edu/~sqchen/
+program_chair:
+   - name: Karthik Dantu
+     org: University at Buffalo, State University of New York (USA)
+     homepage: https://cse.buffalo.edu/faculty/kdantu/
+   - name: Iqbal Mohomed
+     org: Samsung Research (Canada)
+     homepage: http://www.cs.toronto.edu/~iq/
 # steering_committees:
 #   - name: Azer Bestavros
 #     org: Boston University (USA)
