@@ -1,3 +1,7 @@
+exclude:
+  - [vendor]
+  - Gemfile
+  - Gemfile.lock
 full_title: First ACM/IEEE Workshop on Vision at the Edge
 short_title: VisEdge 2019
 email: kdantu@buffalo.edu
@@ -86,7 +90,6 @@ deadlines:
 news:
   - date: 2019-07-23
     text: Website online
-exclude: [vendor]
 #sponsors:
 #  - name: ACM
 #    logo_path: ./assets/images/sponsors/acm-logo.png
