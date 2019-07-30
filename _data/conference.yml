@@ -101,10 +101,10 @@ exclude:
 #  twitter_link:
 program_chair:
    - name: Karthik Dantu
-     org: University at Buffalo, State University of New York (USA)
+     org: University at Buffalo, State University of New York
      homepage: https://cse.buffalo.edu/faculty/kdantu/
    - name: Iqbal Mohomed
-     org: Samsung Research (Canada)
+     org: Samsung Research
      homepage: http://www.cs.toronto.edu/~iq/
 # steering_committees:
 #   - name: Azer Bestavros
